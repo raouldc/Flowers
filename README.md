@@ -1,4 +1,4 @@
-OpenGL-3D-Modelling-and-Texture-Mapping
+Flowers
 =======================================
 
-3D Modelling and Texture Mapping using OpenGl
+3D Modelling and Texture Mapping using OpenGL
